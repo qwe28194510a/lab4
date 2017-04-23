@@ -1,11 +1,13 @@
 # lab4
 
 A.
+
 000000000040052d T _Z7averageif
 
 00000000004004ed T _Z7averagePdRd
 
 B.
+
 char:1 bit
 
 int:4 bits
